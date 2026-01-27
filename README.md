@@ -12,7 +12,6 @@
 **Aspiring Full Stack Developer | Technical Lead** *Passionate about building scalable, secure, and user-centric solutions.*
 
 * 🎓 **Education**: B.Tech in Computer Science at **PES University**, Bengaluru.
-* 🛠️ **Leadership**: Technical Lead for the **Kannada Koota Tech Team**.
 * 💡 **Focus**: Specialized in **MERN Stack**, **Next.js**, and **Machine Learning**.
 * 🌐 **Portfolio**: [Visit My Website](https://shreyas-portfolio-ten.vercel.app/)
 
