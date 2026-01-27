@@ -9,7 +9,7 @@
 </p>
 
 ### 🚀 Shreyas J U
-**Aspiring Full Stack Developer | Technical Lead** *Passionate about building scalable, secure, and user-centric solutions.*
+**Aspiring Full Stack Developer** *Passionate about building scalable, secure, and user-centric solutions.*
 
 * 🎓 **Education**: B.Tech in Computer Science at **PES University**, Bengaluru.
 * 💡 **Focus**: Specialized in **MERN Stack**, **Next.js**, and **Machine Learning**.
