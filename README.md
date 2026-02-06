@@ -51,13 +51,14 @@ https://shreyas-portfolio-ten.vercel.app/
 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shreyas-J-U&show_icons=true&theme=radical&border_radius=14" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-J-U&theme=radical&border_radius=14" />
+  <!-- <img width="48%" src="https://streak-stats.demolab.com?user=Shreyas-J-U&theme=radical&hide_border=true" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-J-U&theme=radical&border_radius=14" /> </p> <p align="center">
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-J-U&layout=compact&theme=radical&border_radius=14&hide_border=true" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreyas-J-U&theme=radical" />
 </p>
+
 
 🧪 Current Focus
 
