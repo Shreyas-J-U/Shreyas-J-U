@@ -12,13 +12,12 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00FFA3?style=flat-square" />
 </p>
 
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
 ---
 
-## 🧠 Personal Brand Snapshot
+## 👨‍💻 More About Me 🖥️
 
 ```ts
 const shreyasJU = {
