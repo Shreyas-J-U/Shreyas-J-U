@@ -1,6 +1,3 @@
-<!-- ===================================================== -->
-<!-- 🌌 SHREYAS J U — CYBERPUNK PERSONAL BRAND README -->
-<!-- ===================================================== -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shreyas+👋;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Building+Scalable+Systems+%26+Smart+UIs;Turning+Ideas+Into+Production+🚀" />
