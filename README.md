@@ -32,8 +32,8 @@ const shreyasJU = {
 };
 ```
 
-🌐 Portfolio
-https://shreyas-portfolio-ten.vercel.app/
+
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-2563eb?style=for-the-badge&logo=react&logoColor=white)](https://shreyas-portfolio-ten.vercel.app/)
 
 🛠 Tech Stack
 🎨 Frontend
