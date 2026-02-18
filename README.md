@@ -1,18 +1,18 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shreyas+👋;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Building+Scalable+Systems+%26+Smart+UIs;Turning+Ideas+Into+Production+🚀" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyas-J-U&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Shreyas-J-U?label=FOLLOWERS&style=flat-square&color=9D00FF" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00FFA3?style=flat-square" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shreyas+👋;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Building+Scalable+Systems+%26+Smart+UIs;Turning+Ideas+Into+Production)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-J-U&label=Profile+Views&color=00F5FF&style=flat-square)](https://github.com/Shreyas-J-U)
+[![Followers](https://img.shields.io/github/followers/Shreyas-J-U?label=Followers&style=flat-square&color=9D00FF)](https://github.com/Shreyas-J-U?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563eb?style=flat-square&logo=react&logoColor=white)](https://shreyas-portfolio-ten.vercel.app/)
+
+</div>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
----
+
 
 ## 👨‍💻 More About Me 🖥️
 
@@ -32,15 +32,14 @@ const shreyasJU = {
 };
 ```
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-2563eb?style=for-the-badge&logo=react&logoColor=white)](https://shreyas-portfolio-ten.vercel.app/)
-
-🛠 Tech Stack
-🎨 Frontend
+## Tech Stack
+### Frontend
 <p align="left"> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" /> </p>
-🧩 Backend & Databases
+
+### Backend & Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" /> </p>
-🤖 AI / Machine Learning
+
+### AI / Machine Learning
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" /> <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> </p>
 
 <br clear="right"/>
@@ -56,15 +55,29 @@ const shreyasJU = {
 </p>
 
 
-🧪 Current Focus
+### Current Focus
 
-Advanced Next.js full-stack applications
+* **Advanced Next.js:** Building production-grade full-stack applications.
+* **AI Integration:** Implementing Machine Learning with Transformers.
+* **System Design:** Architecting scalable backends & distributed systems.
+* **Creative Coding:** crafting high-performance UI animations.
 
-Machine Learning with Transformers
+<br />
 
-Backend scalability & system design
+<div align="center">
 
-High-performance UI animations
+### _"Build real things. Ship fast. Leave no bugs behind."_
 
-🤝 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/shreyas-j-u-a872b2307/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sshreyasju@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <h3 align="center">⚡ “Build real things. Ship fast. Leave no bugs behind.”</h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/> </p> ```
+<a href="https://www.linkedin.com/in/shreyas-j-u-a872b2307/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:sshreyasju@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br /><br />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
+
+</div>
