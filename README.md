@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shreyas+👋;Full+Stack+Developer+%7C+MERN+%7C+AI+Enthusiast;Building+Scalable+Systems+%26+Smart+UIs;Turning+Ideas+Into+Production)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shreyas+👋;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Systems+%26+Smart+UIs;Turning+Ideas+Into+Production)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-J-U&label=Profile+Views&color=00F5FF&style=flat-square)](https://github.com/Shreyas-J-U)
 [![Followers](https://img.shields.io/github/followers/Shreyas-J-U?label=Followers&style=flat-square&color=9D00FF)](https://github.com/Shreyas-J-U?tab=followers)
